@@ -35,26 +35,6 @@ proof-of-concept into real, running platforms.
 
 <br>
 
----
-
-## Hero Banner — Design Recommendation
-
-> Not generated here; describing the spec for a designer or a tool like Figma / Canva.
-
-- **Layout:** Full-width (1500×400 px), name and headline left-aligned, a minimal geometric
-  network/graph motif (representing retrieval + agent orchestration) fading in on the right.
-- **Palette:** Deep navy background (`#1F3864`), accent blue (`#2E75B6`), white/light-gray text —
-  matches the résumé's existing color scheme for a consistent personal brand across résumé,
-  LinkedIn, and GitHub.
-- **Typography:** A clean geometric sans-serif (Inter, Söhne, or IBM Plex Sans) for the name;
-  a lighter-weight monospace (Fira Code / JetBrains Mono) for the role line, echoing the
-  code-oriented typing banner below it.
-- **Iconography:** Sparse — a small node/edge graph or a subtle circuit-board pattern at low
-  opacity. No mascots, no cartoon robots.
-- **Background:** Flat color or a very subtle gradient (navy → slightly lighter navy), no busy
-  photography.
-
----
 
 ## About Me
 
